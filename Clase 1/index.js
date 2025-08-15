@@ -84,3 +84,6 @@ suma()
 //Para subir mi código a Gihub (o cualquier repositorio)
 //Primero consultar el status: git status
 //Realizar una selección de los archivos a subir: git add ... / git add .
+//Commitear es ponerle una identificación al código que estoy subiendo: git commit -m "blah blah"
+//Para consultar los commits: git log
+//Despliegue en la nube de mi código: git push origin "nombre de la rama" / git push origin main
