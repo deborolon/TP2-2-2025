@@ -1,0 +1,21 @@
+{
+  "name": "type-commonjs",
+  "version": "1.0.0",
+  "description": "Modulo de importación \"CommonJS\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "require",
+    "module"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
